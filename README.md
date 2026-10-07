@@ -1,7 +1,11 @@
-*Name: Tanush Bhatt*
+# 24012011009_MAD_Practical-8
 
-*Enr. No.: 24012011009*
+### Student Details
 
-*Class: CE I-1*
+- **Name:** Tanush Bhatt
+- **Enr. No.:** 24012011009
+- **Class:** CE I-1
 
-# 24012011009_MAD_Practical-8 PDF:[24012011009_Tanush_Practical-8_MAD.pdf]
+### Practical PDF
+
+📄 [View Practical-8 PDF](./24012011009_Tanush_Practical-8_MAD.pdf)
